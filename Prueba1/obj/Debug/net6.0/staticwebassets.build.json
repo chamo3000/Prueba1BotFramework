@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "Hash": "ZH7YkiVeWXbZj+FKK9KHZbMvynN8Bplzi+HvQODNJiw=",
+  "Source": "Prueba1",
+  "BasePath": "_content/Prueba1",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "Prueba1\\wwwroot",
+      "Source": "Prueba1",
+      "ContentRoot": "C:\\Users\\jbedoya\\Documents\\Bots\\Prueba1\\Prueba1\\wwwroot\\",
+      "BasePath": "_content/Prueba1",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\jbedoya\\Documents\\Bots\\Prueba1\\Prueba1\\wwwroot\\default.htm",
+      "SourceId": "Prueba1",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\jbedoya\\Documents\\Bots\\Prueba1\\Prueba1\\wwwroot\\",
+      "BasePath": "_content/Prueba1",
+      "RelativePath": "default.htm",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\default.htm"
+    }
+  ]
+}
